@@ -1,6 +1,6 @@
 # Beacon Flooding 웹 애플리케이션
 
-이 마크다운 문서는 Flask를 사용하여 Beacon Flooding을 수행하는 웹 애플리케이션에 대한 사용법을 안내합니다.
+이 문서는 Flask를 사용하여 Beacon Flooding을 수행하는 웹 애플리케이션에 대한 사용법을 안내합니다.
 
 ## 개요
 
